@@ -600,6 +600,7 @@ def operation(x, y):  # inner reference
     print("subtraction=", x - y)
     print("Multiplication=", x * y)
     print("Division=", x / y)
+    print("All maths operation ")
 
 
 operation(45, 3)

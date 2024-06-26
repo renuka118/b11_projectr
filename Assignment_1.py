@@ -10,6 +10,9 @@
 # print(list)   #[]
 # print(dir(list))   #'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
 
+
+list=[1,22,33,44]
+print(list[1])
 # $$$ 1
 
 """
@@ -604,3 +607,8 @@ operation(45, 3)
 
 # q = int(input("enter second val"))
 # operation(p,q)
+
+
+
+def git_test():
+    print(" Git testing")
